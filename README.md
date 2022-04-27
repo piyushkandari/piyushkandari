@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @piyushkandari
 - 👀 I’m interested in open source
 - 🌱 I’m currently learning FullStack 
-- 💞️ I’m looking to collaborate on Frontend projects based on reactjs
+- 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me Emaill : kandaripiyush@gmail.com   Linkedin: https://www.linkedin.com/in/piyushkandari
 
 <!---
