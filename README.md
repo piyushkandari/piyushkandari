@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushkandari
 - 👀 I’m interested in open source
-- 🌱 I’m currently learning FullStack 
+- 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me Emaill : kandaripiyush@gmail.com   Linkedin: https://www.linkedin.com/in/piyushkandari
 
